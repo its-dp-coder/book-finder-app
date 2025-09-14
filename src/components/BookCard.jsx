@@ -61,6 +61,6 @@ export default function BookCard({ book, onFavorite, onRemove, isFavorite, darkM
           📖 View Details
         </button>
       </div>
-    </div>
+  </div>
   );
 }
